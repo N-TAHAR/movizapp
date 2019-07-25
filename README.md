@@ -1,8 +1,8 @@
-"# movizapp" 
+# Movizapp
 
-La V1 est terminé.
+##La V1 est terminé.
 
-Fonctionnalités de la V2 complétées :
+##Fonctionnalités de la V2 complétées :
 
 ·	En plus de la barre de recherche sur la page d'accueil, elle affiche les derniers films critiqués par les internautes, dans l'ordre du plus récent au plus ancien.
 ·	Tous les formulaire sont sécurisés
